@@ -5,7 +5,7 @@ title: HydPy
 description: "Community driven group for promoting python in Hyderabad."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://www.hydpy.org"
+url: ""
 
 # Build settings
 markdown: kramdown
