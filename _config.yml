@@ -4,8 +4,8 @@
 title: HydPy
 description: "Community driven group for promoting python in Hyderabad."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: ""
+baseurl: "HydPy" #important: start with /
+url: "https://manitha.github.io/"
 
 # Build settings
 markdown: kramdown
